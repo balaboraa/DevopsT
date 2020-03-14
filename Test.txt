@@ -1,1 +1,1 @@
-Thsi is a test file. First file in GITHUB.
+This is a test file. First file in GITHUB.
